@@ -1,0 +1,4 @@
+com\dydu\hoover\service\Deplacement.class
+com\dydu\hoover\models\Coordonnee.class
+com\dydu\hoover\utils\MatrixFileReader.class
+com\dydu\hoover\models\Piece.class
